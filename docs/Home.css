@@ -559,8 +559,12 @@
 }
 
 .u-section-8 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
   background-image: none;
-  margin: 30px auto 60px;
+  margin: 23px auto 60px;
 }
 
 @media (max-width: 767px) {
@@ -591,6 +595,10 @@
 }
 
 .u-section-9 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   background-image: none;
   margin: 30px auto 60px;
 }
